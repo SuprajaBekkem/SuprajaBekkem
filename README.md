@@ -6,7 +6,7 @@ Let me take you along on my journey as a passionate Data Analyst and lifelong le
 
 🌱 Hi, I’m @SuprajaBekkem and I’m a Master’s student in Data Science at UMBC  
 💼 I have 4+ years of experience working with data across E-commerce, Healthcare, and Telecom domains  
-🔍 I’m actively seeking full-time roles in Data Analytics, Data Engineering, or AI/ML  
+🔍 I’m actively seeking full-time roles in Data Analyst, Data Engineer, or AI/LLM/Prompt Engineer 
 📊 I love turning messy data into powerful stories using tools like Power BI, Tableau, and Python  
 ☁️ Currently exploring real-time analytics, LLMs, and cloud-based data engineering 
 📫 Reach me at: suprajareddybekkem@gmail.com  
